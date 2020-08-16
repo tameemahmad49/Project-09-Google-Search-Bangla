@@ -1,0 +1,335 @@
+img {
+    width: 100%;
+}
+
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+a,
+ol,
+ul,
+li,
+figcaption,
+textarea,
+input {
+    font-family: arial;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* menu header css */
+
+.header {}
+
+.header ul {
+    display: flex;
+    justify-content: flex-end;
+    padding: 17px;
+}
+
+.header ul li {
+    list-style: none;
+    padding: 0px 8px;
+}
+
+.header ul li a {
+    color: black;
+    font-size: 13px;
+}
+
+.header ul li a img {
+    width: 28px;
+}
+
+.btnHeader {
+    color: white !important;
+    font-weight: bold;
+}
+
+.header ul li a:hover {
+    text-decoration: underline;
+}
+
+.btn.btn-sm.btn-primary.btnHeader:hover {
+    text-decoration: none;
+}
+
+/* body css */
+
+.bodySection {
+    text-align: center;
+    margin-top: 119px;
+}
+
+.mainImgBody {}
+
+.mainImgBody img {
+    width: 280px;
+}
+
+.mainImgBody p {
+    color: #4285f4;
+    margin-left: 234px;
+    margin-top: -22px;
+}
+
+.inputBody {}
+
+.inputBody input {
+    width: 580px;
+    padding: 7px;
+    border: 1px solid #0000002e;
+    margin-top: 14px;
+}
+
+.inputBody a img {
+    width: 31px;
+    margin-left: -42px;
+}
+
+.inputBody a {}
+
+.btnBody {
+    padding-top: 35px;
+}
+
+.btnBody button {}
+
+.btnOfBody {
+    border-radius: 0;
+    font-size: 15px;
+    font-family: sans;
+    font-weight: bold;
+    color: #00000091;
+    margin: 3px;
+}
+
+.btnOfBody:hover {
+    background: #fdfdfd;
+}
+
+.paragraphBody {}
+
+.paragraphBody p {
+    padding: 25px;
+    font-size: 12px;
+}
+
+.paragraphBody p a {
+    color: #024dbc;
+}
+
+.paragraphBody p a:hover {
+    text-decoration: underline;
+}
+
+.footerSection {
+    display: flex;
+    justify-content: space-between;
+    background: #f8f9fa;
+    padding: 17px 11px;
+    /*! margin-top: 239px; */
+    position: absolute;
+    bottom: 0;
+    /*! wi: 100%; */
+    width: 100%;
+}
+
+.footerSection a {
+    padding: 0 12px;
+    font-size: 15px;
+    color: #00000087;
+}
+
+.footerSection a:hover {
+    text-decoration: underline;
+}
+
+.leftFooter {}
+
+.leftFooter a {}
+
+.rightFooter {}
+
+.rightFooter a {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
